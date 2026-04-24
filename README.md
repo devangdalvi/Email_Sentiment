@@ -23,6 +23,7 @@ Body
 📁 File: app.py
 
 🧹 2. Preprocessing Layer
+
 Combines subject + body
 Cleans and decodes text
 Prepares input for embedding
@@ -34,6 +35,7 @@ Converts text → 768-dimensional vector
 📁 File: inference.py
 
 🕸️ 4. Graph Construction (Pre-trained)
+
 Built during training phase
 Structure:
 Nodes = Sentences
