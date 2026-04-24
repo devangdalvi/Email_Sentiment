@@ -29,6 +29,7 @@ Cleans and decodes text
 Prepares input for embedding
 
 🔤 3. Embedding Layer
+
 Model: all-mpnet-base-v2
 Converts text → 768-dimensional vector
 
