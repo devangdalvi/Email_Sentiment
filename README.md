@@ -54,17 +54,8 @@ Labels
 🧠 5. GNN Model Layer
 
 Model: GraphSAGE (3-layer architecture)
-Input (768)
-   ↓
-SAGEConv → ReLU → Dropout
-   ↓
-SAGEConv → ReLU → Dropout
-   ↓
-SAGEConv → ReLU
-   ↓
-Fully Connected Layer
-   ↓
-Output (3 classes)
+<img width="312" height="274" alt="image" src="https://github.com/user-attachments/assets/348b6345-fae4-4e99-998e-5aad88717501" />
+
 
 🎯 6. Prediction Logic
 
@@ -89,14 +80,7 @@ Confidence: 92.3%
 
 🏗️ Project Structure
 
-├── app.py                  # Email Reader (IMAP)
-├── inference.py            # Embedding + Prediction Logic
-├── model.py                # GraphSAGE Architecture
-├── models/
-│   ├── sentiment_gnn_model.pth
-│   └── sentiment_graph_data.pkl
-├── requirements.txt
-└── README.md
+<img width="578" height="211" alt="image" src="https://github.com/user-attachments/assets/e47751d2-4820-4953-be66-66caa85ba58d" />
 
 👨‍💻 Author
 
