@@ -45,10 +45,13 @@ Edges = Cosine similarity (KNN-based)
 📦 Stored as:
 
 sentiment_graph_data.pkl
+
 Contains:
 
 Node features (embeddings)
+
 edge_index
+
 Labels
 
 🧠 5. GNN Model Layer
@@ -62,10 +65,15 @@ Model: GraphSAGE (3-layer architecture)
 Steps:
 
 Convert email → embedding
+
 Compare with graph nodes (cosine similarity)
+
 Find closest node
+
 Pass through GNN
+
 Generate probabilities
+
 Select highest class
 
 📊 7. Output Layer
