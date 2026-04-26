@@ -6,8 +6,11 @@ An end-to-end Email Sentiment Analysis System that leverages Natural Language Pr
 This project automatically reads incoming emails from a Gmail inbox, processes the content, and predicts sentiment using a hybrid AI pipeline:
 
 🔤 Sentence Transformers for text embeddings
+
 🕸️ Graph Neural Network (GraphSAGE) for relational learning
+
 📊 Real-time sentiment prediction
+
 
 🏗️ High-Level Architecture
 <img width="690" height="452" alt="image" src="https://github.com/user-attachments/assets/7f943b22-886e-4940-b349-70a95b0a56eb" />
