@@ -15,6 +15,8 @@ This project automatically reads incoming emails from a Gmail inbox, processes t
 🏗️ High-Level Architecture
 <img width="690" height="452" alt="image" src="https://github.com/user-attachments/assets/7f943b22-886e-4940-b349-70a95b0a56eb" />
 
+---
+
 🔬 Component-Wise Architecture
 📩 1. Email Ingestion Layer
 Uses IMAP protocol
@@ -30,6 +32,8 @@ Body
 Combines subject + body
 Cleans and decodes text
 Prepares input for embedding
+
+---
 
 🔤 3. Embedding Layer
 
