@@ -42,6 +42,8 @@ Converts text → 768-dimensional vector
 
 📁 File: inference.py
 
+---
+
 🕸️ 4. Graph Construction (Pre-trained)
 
 Built during training phase
@@ -61,6 +63,9 @@ edge_index
 
 Labels
 
+---
+
+
 🧠 5. GNN Model Layer
 
 Model: GraphSAGE (3-layer architecture)
@@ -74,7 +79,7 @@ OUTPUT:
 
 
 
-
+---
 
 
 🎯 6. Prediction Logic
@@ -93,6 +98,8 @@ Generate probabilities
 
 Select highest class
 
+---
+
 📊 7. Output Layer
 
 Example:
@@ -106,6 +113,8 @@ Confidence: 92.3%
 🏗️ Project Structure
 
 <img width="578" height="211" alt="image" src="https://github.com/user-attachments/assets/e47751d2-4820-4953-be66-66caa85ba58d" />
+
+---
 
 👨‍💻 Author
 
