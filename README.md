@@ -55,7 +55,7 @@ Converts text → 768-dimensional vector
 
 🕸️ 4. Graph Construction (Pre-trained)
 
-Built during training phase
+Built during the training phase
 Structure:
 Nodes = Sentences
 Edges = Cosine similarity (KNN-based)
