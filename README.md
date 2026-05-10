@@ -39,7 +39,9 @@ Body
 🧹 2. Preprocessing Layer
 
 Combines subject + body
+
 Cleans and decodes text
+
 Prepares input for embedding
 
 ---
@@ -47,6 +49,7 @@ Prepares input for embedding
 🔤 3. Embedding Layer
 
 Model: all-mpnet-base-v2
+
 Converts text → 768-dimensional vector
 
 📁 File: inference.py
@@ -58,6 +61,7 @@ Converts text → 768-dimensional vector
 Built during the training phase
 Structure:
 Nodes = Sentences
+
 Edges = Cosine similarity (KNN-based)
 
 📦 Stored as:
@@ -116,8 +120,11 @@ Select the highest class
 Example:
 
 📨 Email Content: "Your service is amazing!"
+
 🧠 Prediction:
+
 Sentiment: Positive
+
 Confidence: 92.3%
 
 
