@@ -85,17 +85,6 @@ Model: GraphSAGE (3-layer architecture)
 <img width="312" height="274" alt="image" src="https://github.com/user-attachments/assets/348b6345-fae4-4e99-998e-5aad88717501" />
 
 
----
----
-
-OUTPUT:
-<img width="940" height="289" alt="image" src="https://github.com/user-attachments/assets/593e45d0-5f88-4991-8103-f2d107726a9e" />
-
-
-
----
----
-
 
 🎯 6. Prediction Logic
 
@@ -127,6 +116,16 @@ Sentiment: Positive
 
 Confidence: 92.3%
 
+---
+---
+
+OUTPUT:
+<img width="940" height="289" alt="image" src="https://github.com/user-attachments/assets/593e45d0-5f88-4991-8103-f2d107726a9e" />
+
+
+
+---
+---
 
 🏗️ Project Structure
 
