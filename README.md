@@ -82,6 +82,8 @@ Labels
 🧠 5. GNN Model Layer
 
 Model: GraphSAGE (3-layer architecture)
+
+
 <img width="312" height="274" alt="image" src="https://github.com/user-attachments/assets/348b6345-fae4-4e99-998e-5aad88717501" />
 
 
